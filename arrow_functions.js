@@ -4,7 +4,6 @@
 
 function sum(a,b){
     return a+b
-document.querySelector('#total').innerHTML = sum
 }
 
 let sum2 = (a,b) => a+b 
