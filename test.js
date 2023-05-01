@@ -7,10 +7,11 @@ console.log(multiply);
 
 const numbers = [1, 2, 3, 4, 5]
 let sum = 0
-function total(){
+
 for(let i=0; i<numbers.length;i++){
-   return sum += numbers[i];
-}};
+  sum += numbers[i];
+}
+
 console.log(sum);
 
 
