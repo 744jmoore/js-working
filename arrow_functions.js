@@ -16,10 +16,10 @@ function isPositive(Number){
 let isPositive2 = (Number) => Number >=0
 
 function randomNumber(){
-    return Math.random
+    return Math.random()
 }
 
-let randomNumber2 =() => Math.random
+let randomNumber2 =() => Math.random()
 
 document.addEventListener('click', function(){
     console.log('Click')
