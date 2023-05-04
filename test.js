@@ -1,4 +1,4 @@
-//Updated answers had I taken the time to write the code in vs vs notepad
+//Updated answers had I taken the time to write the code in vs vs notepad.  I felt rushed with a meeting to go to.
 
 function multiply(a,b){
    return a*b
